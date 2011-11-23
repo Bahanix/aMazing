@@ -1,6 +1,6 @@
 # aMazing: porn folder maze generator
 Generate directories mazes. Enjoy your filesystem more than ever.
-Inspirated from XKCD [Porn Folder](http://www.xkcd.com/981/).
+Inspired from XKCD [Porn Folder](http://www.xkcd.com/981/).
 
 ## Usage
 

@@ -15,7 +15,6 @@ class Maze < Array
   end
 
   def build(root)
-    FileUtils.rm_rf root
     self.each do |current|
       FileUtils.mkdir_p root + '/' + current[:path]
     end
